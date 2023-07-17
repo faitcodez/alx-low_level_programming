@@ -12,7 +12,7 @@ int main(void)
 	/*your code here*/
 	while (lowerCase <= 'z')
 	{
-	if (lowerCase == 'e'|| lowerCase == 'q')
+	if (lowerCase == 'e' || lowerCase == 'q')
 	{
 		lowerCase += 1;
 	}
