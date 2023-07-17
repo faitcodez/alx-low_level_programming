@@ -9,6 +9,7 @@
 int main(void)
 {
 	int lowerCase = 'a';
+	/*your code here*/
 	while (lowerCase <= 'z')
 	{
 	putchar(lowerCase);
