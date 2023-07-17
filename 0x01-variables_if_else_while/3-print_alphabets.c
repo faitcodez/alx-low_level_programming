@@ -13,12 +13,12 @@ int main(void)
 	/*your code here*/
 	while (lowerCase <= 'z')
 	{
-	putchar(lowerCase);
+	putchar("lowerCase");
 	lowerCase +=;
 	}
 	while (upperCase <= 'Z')
 	{
-	putchar(upperCase);
+	putchar("upperCase");
 	upperCase += 1;
 	}
 	putchar('\n');
