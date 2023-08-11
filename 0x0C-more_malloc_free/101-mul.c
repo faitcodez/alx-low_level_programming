@@ -48,7 +48,7 @@ char *create_xarray(int size)
 
 	array[index] = '\0';
 
-return (array);
+	return (array);
 }
 
 /**
